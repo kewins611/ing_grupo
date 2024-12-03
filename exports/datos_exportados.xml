@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<registros>
+  <registro>
+    <nombre>kewin</nombre>
+    <apellido>sanchez</apellido>
+    <matricula>202201</matricula>
+    <descripcion>soy capaz de realizar un crud en flutter</descripcion>
+  </registro>
+  <registro>
+    <nombre>juan</nombre>
+    <apellido>hernandez</apellido>
+    <matricula>3933921</matricula>
+    <descripcion>bd1</descripcion>
+  </registro>
+  <registro>
+    <nombre>pedrp</nombre>
+    <apellido>sanchez</apellido>
+    <matricula>2022-0169</matricula>
+    <descripcion>soy kewin y puedo conectar la informacion de flutter en una bd</descripcion>
+  </registro>
+  <registro>
+    <nombre>amadis</nombre>
+    <apellido>el profe</apellido>
+    <matricula>234066</matricula>
+    <descripcion>el es el mejor profe de  desarollo de aplicaciones moviles </descripcion>
+  </registro>
+</registros>
